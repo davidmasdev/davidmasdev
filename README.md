@@ -6,7 +6,7 @@ Me apasionan los ordenadores y todo lo relacionado con la tecnología y el softw
 
 No he estado muy activo en este perfil porque también tengo una cuenta universitaria.
 
-Cuenta universitaria: @dma72-ua
+Cuenta universitaria: [@dma72-ua](https://github.com/dma72-ua)
 
 ## Hello, welcome to my github!
 
@@ -16,4 +16,4 @@ I'm passionate about computers and everything related to technology and software
 
 I haven’t been very active on this profile because I also have a university account.
 
-University account: @dma72-ua
+University account: [@dma72-ua](https://github.com/dma72-ua)
