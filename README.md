@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola, bienvenido a mi github!
 
-<!--
-**davidmasdev/davidmasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de ultimo año de Ingeniería Informática en la Universidad de Alicante.
 
-Here are some ideas to get you started:
+Me apasionan los ordenadores y todo lo relacionado con la tecnología y el software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No he estado muy activo en este perfil porque también tengo una cuenta universitaria.
+
+Cuenta universitaria: @dma72-ua
+
+## Hello, welcome to my github!
+
+I'm a final-year Computer Engineering student at the University of Alicante.
+
+I'm passionate about computers and everything related to technology and software.
+
+I haven’t been very active on this profile because I also have a university account.
+
+University account: @dma72-ua
