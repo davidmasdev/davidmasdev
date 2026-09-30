@@ -7,10 +7,11 @@ I work mainly with **Python** and **C++**, and I enjoy understanding how things 
 Based in Alicante, Spain. Open to roles in Madrid, Valencia, Alicante or remote.
 [davidmas.dev](https://davidmas.dev) · [LinkedIn](https://www.linkedin.com/in/david-mas-almendros/) · davidmas.sm@gmail.com
 
-## Hola, soy David
+# Hola, soy David
 
 Ingeniero de software junior orientado al desarrollo backend y de sistemas. Graduado en Ingeniería Informática por la Universidad de Alicante, con un 10 en el TFG.
 
 Trabajo principalmente con **Python** y **C++**, y me gusta entender cómo funcionan las cosas por dentro: APIs REST, bases de datos, concurrencia, redes y Linux.
 
-Disponible para puestos en Madrid, Valencia, Alicante o en remoto: [davidmas.dev](https://davidmas.dev) · [LinkedIn](https://www.linkedin.com/in/david-mas-almendros/)
+Disponible para puestos en Madrid, Valencia, Alicante o en remoto.
+[davidmas.dev](https://davidmas.dev) · [LinkedIn](https://www.linkedin.com/in/david-mas-almendros/) · davidmas.sm@gmail.com
