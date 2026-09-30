@@ -1,19 +1,16 @@
-## Hola, bienvenido a mi github!
+# Hi, I'm David
 
-Soy un estudiante de ultimo año de Ingeniería Informática en la Universidad de Alicante.
+Junior software engineer focused on backend and systems software. I recently graduated in Computer Engineering from the University of Alicante, with my bachelor's thesis graded 10/10.
 
-Me apasionan los ordenadores y todo lo relacionado con la tecnología y el software.
+I work mainly with **Python** and **C++**, and I enjoy understanding how things work under the hood: REST APIs, databases, concurrency, networking and Linux.
 
-No he estado muy activo en este perfil porque también tengo una cuenta universitaria.
+Based in Alicante, Spain. Open to roles in Madrid, Valencia, Alicante or remote.
+[davidmas.dev](https://davidmas.dev) · [LinkedIn](https://www.linkedin.com/in/david-mas-almendros/) · davidmas.sm@gmail.com
 
-Cuenta universitaria: [@dma72-ua](https://github.com/dma72-ua)
+## Hola, soy David
 
-## Hello, welcome to my github!
+Ingeniero de software junior orientado al desarrollo backend y de sistemas. Graduado en Ingeniería Informática por la Universidad de Alicante, con un 10 en el TFG.
 
-I'm a final-year Computer Engineering student at the University of Alicante.
+Trabajo principalmente con **Python** y **C++**, y me gusta entender cómo funcionan las cosas por dentro: APIs REST, bases de datos, concurrencia, redes y Linux.
 
-I'm passionate about computers and everything related to technology and software.
-
-I haven’t been very active on this profile because I also have a university account.
-
-University account: [@dma72-ua](https://github.com/dma72-ua)
+Disponible para puestos en Madrid, Valencia, Alicante o en remoto: [davidmas.dev](https://davidmas.dev) · [LinkedIn](https://www.linkedin.com/in/david-mas-almendros/)
